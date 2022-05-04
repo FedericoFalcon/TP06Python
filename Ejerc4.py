@@ -30,12 +30,3 @@ for x in B:
 print("Interseccion:",interseccion)
 print()
 print("Restante:",restante)
-
-''' c0omentario 1 para el commit
-
-'''
-
-# comentario para el 2do commit
-
-
-
