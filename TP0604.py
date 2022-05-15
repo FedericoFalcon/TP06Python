@@ -1,3 +1,4 @@
+#TP6 EJERCICIO 4
 ''' 4. A partir de dos listas A y B, generar dos nuevas listas: una de ellas llamada “intersección” con 
 los elementos presentes en A y en B, la otra llamada “restante” que tenga los elementos de A 
 y B que no están en ambas listas. 
@@ -25,7 +26,6 @@ for x in A:
 for x in B:
     if x not in interseccion:
         restante.append(x)
-
 
 print("Interseccion:",interseccion)
 print()

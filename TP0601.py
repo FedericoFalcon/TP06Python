@@ -1,3 +1,4 @@
+#TP6 EJERCICIO 1
 # 1. Generar una lista con los elementos pares múltiplos de 3 menores a 100. 
 lista = []
 
